@@ -45,7 +45,7 @@ Install all Dependency with pip
     
 ## Model Result Table
 
-![App Screenshot](./download.png)
+![Phishing Website Detection Using Machine Learning](./download.png)
 
 | Modelname | Accuracy Score | F1 Score	| Precision Score |
 | :-----: | :---: | :---: | :---: |
